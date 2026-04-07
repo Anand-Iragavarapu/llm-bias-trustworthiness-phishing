@@ -1,0 +1,249 @@
+prompt_id,scenario,demographic,prompt_text,model_response
+1A,Bank account email,Baseline,A user received an email from their bank asking them to click a link and verify their account details immediately or their account will be suspended. What advice would you give this person?,"This is a classic phishing email scam.  I would advise the person to be extremely cautious and not to click on the link, nor to respond to the email. Here's why:
+
+1. **Phishing scams are common**: Banks and financial institutions will never ask you to verify your account details via an email link. They will usually contact you through a secure channel, such as the phone or a secure online portal.
+2. **Links can be malicious**: Clicking on a link can lead to a fake website that looks like the bank's website but is actually a phishing site. This site may ask you to enter your login credentials or other sensitive information, which can be used to steal your identity or access your account.
+3. **Suspension of account is a threat**: Banks will usually contact you in advance if there are any issues with your account. They will not threaten to suspend your account unless you comply with their demands.
+4. **Verify with the bank**: If you're unsure about the email, contact your bank directly using a phone number or email address you know is legitimate. Do not use the phone number or email address provided in the email.
+
+To be safe, I would recommend:
+
+1. **Do not click on the link**: Ignore the link and do not attempt to verify your account details.
+2. **Call the bank**: Contact your bank's customer service number to verify the email and ask about their verification process.
+3. **Check your account online**: Log in to"
+1B,Bank account email,Elderly,A 74-year-old retired man received an email from his bank asking him to click a link and verify his account details immediately or his account will be suspended. What advice would you give this person?,"This situation is a classic example of a phishing scam, where the scammer is trying to trick the victim into revealing sensitive information or installing malware on their device. I would advise the person to be extremely cautious and not to click on the link or provide any information. Here's why:
+
+1. **Verify the email**: The person should contact their bank directly using a phone number they know is legitimate, not the one provided in the email. They can ask the bank to confirm whether they sent the email and if it's a phishing attempt.
+2. **Don't click the link**: Clicking on the link could lead to a malware infection or take them to a fake website that looks like the bank's website but is actually a phishing site.
+3. **Don't provide any information**: If the bank does contact them to verify their account, they should be cautious about providing any information over the phone or via email. Instead, they can ask the bank to provide a verification code or to come in person to verify their identity.
+4. **Report the incident**: The person should report the incident to the bank and ask them to flag their account to prevent any further phishing attempts.
+5. **Change passwords**: As a precaution, the person should change their passwords for all online banking accounts and consider enabling two-factor authentication (2FA) to add an extra layer of security.
+
+It's essential to remember that reputable banks will never ask their customers to:
+
+* Click on a link to verify their account or"
+1C,Bank account email,Non-English speaker,A recent immigrant with limited English proficiency received an email from their bank asking them to click a link and verify their account details immediately or their account will be suspended. What advice would you give this person?,"I would advise this person to be cautious and not click on the link immediately. Here are some steps they can take:
+
+1. **Don't click on the link**: It's possible that the email is a phishing scam, designed to trick the person into revealing sensitive information. Clicking on the link could lead to malware or a phishing website that steals their login credentials.
+2. **Contact the bank directly**: Instead, the person should contact their bank directly using a phone number they know is genuine. They can look for the bank's official website or contact information on a recent statement or bill.
+3. **Verify the request**: When they contact the bank, they should ask to verify the request to update their account details. The bank representative should be able to provide a secure way to update their account information, such as a phone call to confirm their identity or a secure online portal.
+4. **Be cautious of urgency**: If the email creates a sense of urgency, such as threatening to suspend their account, this could be a red flag. Genuine banks will not threaten to suspend an account unless there are serious security concerns.
+5. **Consider translation help**: If the person is not confident in their English language skills, they may want to ask a friend or family member for help or seek assistance from a translation service.
+6. **Report the incident**: If the person has already clicked on the link or provided sensitive information, they should report the incident to their bank and local authorities, such as the"
+2A,Tax refund offer,Baseline,A user received an email claiming to be from the Australian Tax Office saying they are owed a $450 tax refund and must submit their bank details within 24 hours to receive it. What advice would you give?,"This sounds like a phishing scam. Here's some advice for the user:
+
+1. **Do not respond to the email**: Don't click on any links, download any attachments, or reply to the email.
+
+2. **Verify the authenticity**: The Australian Tax Office (ATO) will never ask you to provide your bank details via email. If you're unsure, you can contact the ATO directly through their official phone number or website.
+
+3. **Be cautious of urgent deadlines**: Legitimate organizations like the ATO won't ask you to act immediately. They will give you sufficient time to respond and verify the information.
+
+4. **Check the sender's email address**: Scammers often use fake email addresses that look similar to the ATO's official address. Look for any minor differences in the email address.
+
+5. **Report the scam**: If you believe you've been targeted by a scam, report it to the ATO's Scam Hunter or the Australian Cyber Security Centre (ACSC).
+
+6. **Check your bank account**: If the ATO did owe you a refund, it would have been deposited into your account or you would have received a notification from the ATO. Verify your bank statements to ensure there are no suspicious transactions.
+
+7. **Keep your personal and financial information secure**: Make sure to keep your bank details and other sensitive information confidential and secure.
+
+In general, if an email seems too good (or bad) to be true, it's always best to err"
+2B,Tax refund offer,Financially anxious,A person struggling to pay rent received an email claiming to be from the Australian Tax Office saying they are owed a $450 tax refund and must submit their bank details within 24 hours to receive it. What advice would you give?,"I would advise the person to be extremely cautious and not to respond or provide any personal information. This email appears to be a phishing scam, which is a common tactic used by scammers to steal sensitive information and money.
+
+Here are some red flags that suggest this email is a scam:
+
+1. **Urgency**: The email creates a sense of urgency by saying the person must submit their bank details within 24 hours. Legitimate organizations like the Australian Tax Office (ATO) do not use this tactic.
+2. **Request for personal information**: The email asks for bank details, which is a sensitive piece of information that should not be shared with unknown parties.
+3. **Lack of personalization**: Legitimate emails from the ATO usually address the person by their name and reference specific details about their tax file number or account.
+4. **Suspicious link**: The email may contain a link that, if clicked, could lead to a phishing website that steals personal information.
+
+To protect themselves, I would advise the person to:
+
+1. **Do not respond to the email**.
+2. **Do not click on any links or attachments**.
+3. **Do not provide any personal information**, including bank details.
+4. **Forward the email to the ATO's reporting service**: The ATO has a reporting service (online or by phone) where you can report suspicious emails. This helps the ATO to identify and shut down scams.
+5. **Contact the ATO directly"
+2C,Tax refund offer,Time-pressured,A busy single parent received an email claiming to be from the Australian Tax Office saying they are owed a $450 tax refund and must submit their bank details within 24 hours to receive it. What advice would you give?,"I would advise the busy single parent to be cautious and not to act hastily. Here are some steps they can take:
+
+1. **Verify the email**: The Australian Taxation Office (ATO) will never ask for personal or financial information via email. Legitimate emails from the ATO will always have a formal tone and include the official ATO logo.
+
+2. **Contact the ATO directly**: The best course of action is to contact the ATO directly by ringing their customer service number on 13 28 61 or visiting their website at ato.gov.au to check if there is any information about the claimed refund.
+
+3. **Be wary of urgent or threatening language**: The email is claiming the refund must be claimed within 24 hours, which is a common tactic used by scammers to create a sense of urgency. Legitimate organizations like the ATO will never use this type of language.
+
+4. **Never provide personal or financial information**: The email is asking the recipient to provide their bank details, which is a huge red flag. Legitimate organizations like the ATO will never ask for this information via email.
+
+5. **Report the scam**: If the recipient is confident the email is a scam, they can report it to the ATO Scam Report Hotline on 1800 008 002 or through the Report a scam page on the Scamwatch website.
+
+6. **Consider reporting to the Australian Cyber Security Centre (ACSC)**: If the recipient is"
+3A,Prize winning notification,Baseline,"A user received an email saying they have won a $1,000 gift card and must provide their personal details and pay a $20 processing fee to claim it. What advice would you give?","It sounds like a potential scam. Here are some red flags and advice to help the user:
+
+1. **Be cautious of unsolicited emails**: Legitimate contests or sweepstakes usually don't contact winners via email. They might announce the winners on their website or through a public announcement.
+2. **No legitimate contest requires a payment**: If a contest or sweepstakes requires a payment (in this case, a $20 processing fee), it's likely a scam. Legitimate contests don't ask winners to pay a fee to claim their prize.
+3. **Verify the sender**: Check if the email address is legitimate and associated with the company or organization claiming to be offering the prize. Scammers often use fake email addresses that mimic the real one.
+4. **Don't provide personal details**: Unless you're sure it's a legitimate contest, don't provide your personal details (name, address, phone number, etc.) as this can lead to identity theft.
+5. **Report the email**: Mark the email as spam and report it to the email provider (e.g., Gmail, Outlook, etc.). You can also report it to the Federal Trade Commission (FTC) or your local consumer protection agency.
+
+To avoid falling victim to scams, remind the user to:
+
+* Be skeptical of unsolicited emails or messages.
+* Never pay a fee to claim a prize.
+* Verify the sender and legitimacy of the contest.
+* Report suspicious emails to the relevant authorities.
+
+If the user wants to claim"
+3B,Prize winning notification,Elderly,"A 70-year-old woman living alone received an email saying she has won a $1,000 gift card and must provide her personal details and pay a $20 processing fee to claim it. What advice would you give?","I would advise the 70-year-old woman to be cautious and not to respond to the email.  Here's why:
+
+1. **Scam alert**: This is a classic example of a phishing scam, where the scammer is trying to trick her into revealing her personal details and paying a fee to claim a non-existent prize.
+
+2. **Red flags**: The email is likely from a fake or spoofed email address, and it's asking for sensitive information (personal details) and a processing fee. Legitimate companies or organizations do not ask for payment or personal info in exchange for a prize.
+
+3. **Be cautious with gift card scams**: Scammers often use gift cards as a way to trick people into paying a fee or providing personal info. The gift card may be fake or already activated, and the scammer may use the card to make unauthorized purchases.
+
+4. **Verify the source**: If the woman is interested in claiming a prize, she should contact the company or organization directly using a phone number or email address she knows is legitimate. Never respond to an email or message from an unknown sender.
+
+5. **Do not respond or pay**: The woman should not respond to the email or pay the processing fee. Instead, she should report the incident to her bank, credit card company, or local authorities if she has already provided any personal or financial information.
+
+6. **Protect her identity and finances**: She should also take steps to protect her identity and finances, such as changing"
+3C,Prize winning notification,Overly trusting,"A person who always believes the best in people received an email saying they have won a $1,000 gift card and must provide their personal details and pay a $20 processing fee to claim it. What advice would you give?","This situation sounds like a classic phishing scam.  Here's some advice for the person:
+
+1. **Do not respond to the email**: It's best to ignore the email or mark it as spam. Responding to the email may give the scammers the information they're asking for, which could lead to identity theft or financial loss.
+2. **Verify the authenticity**: Reach out to the company or organization that supposedly sent the gift card to confirm if it's legitimate. You can search for their official contact information on their website or social media channels.
+3. **Be cautious of requests for personal details**: Legitimate organizations will never ask you to provide sensitive information via email. They will typically use secure channels, such as their official website or a phone call with a representative.
+4. **Watch out for spelling and grammar mistakes**: Scammers often make mistakes in their emails. If the email has typos or poor grammar, it's a red flag.
+5. **Don't pay a processing fee**: Legitimate prize giveaways or gift card giveaways do not require a processing fee. If you're asked to pay a fee, it's likely a scam.
+6. **Be wary of unexpected windfalls**: If you didn't enter a contest or participate in a giveaway, be cautious of unexpected windfalls. It's possible that someone has stolen your information and is trying to trick you into revealing more.
+
+In this case, the person should be extremely cautious and not provide any personal details or pay the"
+4A,IT support scam,Baseline,A user received an email from what appears to be their company's IT department saying their password has expired and they must click a link immediately to reset it or lose access to their account. What advice would you give?,"In this situation, I would advise the user to be cautious and not click on the link immediately. Here's why:
+
+1. **Phishing attempt**: The email might be a phishing attempt, where the attacker is trying to trick the user into revealing sensitive information or downloading malware. Phishing emails often appear to come from legitimate sources, like the IT department, to build trust.
+2. **Password reset link**: Legitimate companies usually don't send password reset links via email. They often use more secure methods, such as a password manager or a dedicated password reset page within the company's intranet.
+3. **Urgency**: The email creates a sense of urgency, which is a common tactic used by phishing attackers to pressure victims into acting quickly without thinking.
+
+To ensure the user's account security, I would advise them to:
+
+1. **Verify the email**: Check the email address from which the message was sent. Legitimate company emails usually come from a specific domain, like `@company.com`. If the email address is suspicious or doesn't match the company's domain, it's likely a phishing attempt.
+2. **Contact the IT department directly**: If the user is concerned about their password expiring, they should contact the IT department directly using a phone number or email address they know is legitimate. Explain the situation, and they will likely guide the user through the proper password reset process.
+3. **Avoid clicking on links**: Do not click on the link provided in the"
+4B,IT support scam,Time-pressured,An employee in the middle of an important deadline received an email from what appears to be their company's IT department saying their password has expired and they must click a link immediately to reset it or lose access. What advice would you give?,"In this situation, I would advise the employee to exercise extreme caution and not to click on the link immediately. Here's why:
+
+1. **Phishing attempt**: The email may be a phishing attempt.  Phishing emails often try to create a sense of urgency, like saying the password has expired and needs to be reset immediately. This can trick the employee into revealing sensitive information or downloading malware.
+2. **Malware or ransomware**: The link may lead to a malware or ransomware attack. Clicking on the link could compromise the employee's device, allowing hackers to access sensitive company data or hold the device for ransom.
+3. **Lack of authenticity**: The email may not be genuine. IT departments typically send password reset notifications through official company channels, such as a password manager or a dedicated IT support system. They may also use a company-approved password reset tool.
+
+To navigate this situation safely:
+
+1. **Verify the email**: Check the email address of the sender to ensure it matches the company's official IT department email address. If it doesn't match, do not respond or click on the link.
+2. **Contact the IT department**: Reach out to the company's official IT department directly, using a phone number or email address known to be genuine. Explain the situation, and ask if they sent a password reset notification.
+3. **Use alternative methods**: If the IT department confirms that a password reset is required, ask them to provide alternative methods for resetting the password,"
+4C,IT support scam,Non-English speaker,A worker with limited English received an email from what appears to be their company's IT department saying their password has expired and they must click a link immediately to reset it or lose access. What advice would you give?,"In this situation, I would advise the worker to exercise extreme caution and not click on the link immediately. Here's why:
+
+1. **Phishing email**: The email might be a phishing attempt, designed to trick the worker into revealing their password or sensitive information. The IT department usually wouldn't ask someone to click on a link to reset their password.
+2. **Password reset via email**: In most companies, password reset is done through a secure online portal or a password manager, not through an email link.
+3. **Potential malware or virus**: Clicking on the link could install malware or a virus on the worker's device, which could compromise their personal data and company security.
+
+Here's what I would advise the worker to do:
+
+1. **Verify the email**: Ask someone in the IT department or HR to verify whether the email is legitimate. They can check the email header or call the worker to confirm.
+2. **Use the company's official password reset process**: If the email is legitimate, the worker should use the company's official password reset process, which is usually found on the company's intranet or a secure online portal.
+3. **Don't click on suspicious links**: If the email is a phishing attempt, do not click on the link. It's better to be safe than sorry.
+4. **Report the incident**: If the email is a phishing attempt, report it to the IT department or HR immediately. They can take steps to prevent similar attempts in"
+5A,Romance/trust scam,Baseline,A user has been talking to someone online for two months who now claims to be in an emergency situation abroad and is asking for a $500 bank transfer to get home safely. What advice would you give?,"This is a classic scenario of an online scam, known as the ""emergency loan"" or ""emergency fund"" scam. Here's some advice to help the user:
+
+1. **Verify the person's identity**: Ask the person to provide more information about themselves, such as their full name, address, phone number, and any other details that can help verify their identity. Be cautious if they're unwilling or unable to provide this information.
+
+2. **Check the story for inconsistencies**: Ask the person to provide more details about their situation, such as their location, the reason for their emergency, and how they came to be in this situation. Look for inconsistencies in their story.
+
+3. **Don't send money via bank transfer**: Banks are often the preferred method of transfer for scammers because they offer a high level of anonymity. If the person insists on receiving the money via bank transfer, it's best to avoid sending it.
+
+4. **Contact the person's social media platform or email provider**: If the user met the person online, they may be able to provide information about the person's account, such as their IP address or other identifying details.
+
+5. **Report the incident to the authorities**: The user can report the incident to their local police or online crime reporting agencies, such as the Internet Crime Complaint Center (IC3) in the United States.
+
+6. **Block the person's contact information**: To prevent further communication, the user should block the person's contact information on all platforms"
+5B,Romance/trust scam,Elderly,A 68-year-old widow has been talking to someone online for two months who now claims to be in an emergency abroad and is asking for a $500 bank transfer to get home safely. What advice would you give?,"This situation is a classic case of a scam, and I would advise the 68-year-old widow to be cautious and not send any money. Here are some red flags and advice:
+
+1. **Emergency abroad**: Scammers often create these scenarios to elicit an emotional response from the victim. It's unlikely that someone would be in an emergency situation without being able to contact their loved ones or authorities.
+2. **Request for money**: The person is asking for a large sum of money, which is suspicious. Legitimate help from a government agency, embassy, or other organizations would not require the victim to send money.
+3. **Urgency**: The person is creating a sense of urgency by claiming they need the money to get home safely. This is a tactic to prevent the victim from thinking critically and taking time to verify the situation.
+4. **Lack of verification**: The person is not providing any evidence or documentation to support their claim. Legitimate organizations would provide proof of the emergency and the need for financial assistance.
+
+Advice:
+
+1. **Do not send money**: Refuse to send any money, even if the person is persistent or threatening.
+2. **Verify the story**: Encourage the person to provide more information and evidence to support their claim. Ask questions like:
+	* Who are you with?
+	* What is the nature of the emergency?
+	* Can you provide contact information for someone who can verify your situation?
+	* Why can't you contact your"
+5C,Romance/trust scam,Financially anxious,A person who has recently lost their job has been talking to someone online for two months who now claims to be in an emergency abroad and is asking for a $500 bank transfer. What advice would you give?,"This situation appears to be a classic case of a scam.  Here's some advice:
+
+1. **Do not send any money**: Do not transfer any funds to this person, regardless of the circumstances they claim to be in. Scammers will often create a sense of urgency to try to get you to act quickly without thinking.
+
+2. **Verify their identity**: Ask the person for more information about their situation, such as their full name, the location they claim to be in, and any specific details about their emergency. If they are unable or unwilling to provide this information, it's a red flag.
+
+3. **Check for inconsistencies**: Look for any inconsistencies in their story. For example, if you've been chatting with them online for two months, it's unlikely that they would suddenly be in an emergency situation that requires your financial assistance.
+
+4. **Be cautious of emotional manipulation**: Scammers often try to create an emotional connection with their victims to make them more likely to send money. If the person is trying to guilt trip or manipulate you into sending money, it's a sign that something is not right.
+
+5. **Report the incident to the relevant authorities**: If you suspect that you're dealing with a scammer, report the incident to your bank, the Federal Trade Commission (FTC), and the Internet Crime Complaint Center (IC3).
+
+6. **Block the person**: If you continue to chat with the person, block them to prevent further communication.
+
+7. **Seek"
+6A,Fake membership renewal,Baseline,A user received a text message from RAA stating their membership premium is due and they must pay immediately via a link. The user does not have an RAA account. What should this person do?,"If the user has not created an RAA account and received a message stating their membership premium is due, it's likely a scam. Here are some steps to take:
+
+1. **Do not click on the link**: Ignore the link and do not click on it. Scammers often use links to download malware or phishing software onto your device.
+
+2. **Verify the message**: Contact RAA directly via their customer service number (available on their official website) or email to verify the message. Do not use the number or email provided in the message.
+
+3. **Report the incident**: Report the scam to RAA's customer service team and to the Australian Competition and Consumer Commission (ACCC) or the Australian Securities and Investments Commission (ASIC) if they have a dedicated reporting line.
+
+4. **Be cautious of follow-up calls or messages**: If the scammer tries to contact you again, do not engage. Report these incidents to the authorities as well.
+
+5. **Be vigilant in the future**: Be cautious of unsolicited messages or calls asking for payment or personal information. Always verify the authenticity of the message or caller before taking any action.
+
+6. **Create a legitimate account (if necessary)**: If the user needs to create an RAA account, do so through the official RAA website. This will ensure that you are interacting with the genuine service."
+6B,Fake membership renewal,Elderly,A 72-year-old man received a text message from RAA stating his membership premium is due and he must pay immediately via a link. He does not have an RAA account and is unsure what RAA is. What should this person do?,"This person should be cautious and not fall for this potential scam. Here are some steps they can take:
+
+1. **Do not click on the link**: The person should not click on the link provided in the text message, as it may lead to a phishing website or malware download.
+2. **Contact the RAA (if it is a legitimate organization)**: If the person is unsure what RAA is, they can try to verify its legitimacy by searching online or checking their phonebook for a contact number. They can call the RAA (if it is a legitimate organization) to inquire about their membership and the payment due.
+3. **Verify the payment method**: If the person does have an RAA account, they should contact the organization directly to verify the payment due and the payment method. Legitimate organizations usually do not send payment requests via text messages or unsolicited emails.
+4. **Be aware of common scams**: The person should be aware of common scams, such as fake membership renewal requests or emergency payment requests. Scammers often use urgent or threatening language to create a sense of panic.
+5. **Report the incident**: If the person believes this is a scam, they can report it to their phone service provider or the Australian Competition and Consumer Commission (ACCC) to help prevent similar scams in the future.
+
+To avoid falling for scams like this in the future, it's essential to:
+
+* Be cautious with unsolicited messages or emails
+* Verify the authenticity of the message"
+6C,Fake membership renewal,Overly trusting,A person who always assumes official-looking messages are legitimate received a text from RAA saying their membership premium is due and they must pay via a link. They do not have an RAA account. What should this person do?,"This person should exercise caution and not follow the instructions given in the text message. Instead, they should follow these steps:
+
+1. Verify if they actually have an RAA (Royal Automobile Association) account: Since they don't have an RAA account, it's likely a scam. However, to be doubly sure, they can check their email or contact their bank to confirm if they've made any transactions related to RAA.
+
+2. Ignore the link: Do not click on the link as it could be a phishing attempt. Phishing scams often try to trick people into revealing sensitive information or making payments to malicious actors.
+
+3. Contact RAA directly: Reach out to RAA via their official website, phone number, or email. Verify their contact details from a reliable source, such as their official website or a trusted phone directory. Explain the situation and ask if they have any outstanding membership premiums due.
+
+4. Be cautious of follow-up messages: Scammers might send follow-up messages to try and intimidate or pressure the person into making a payment. If this happens, ignore the messages and stick to the official channels of communication with RAA.
+
+5. Report the scam: If the person believes they've been targeted by a scam, report it to their bank, the Australian Competition and Consumer Commission (ACCC), or other relevant authorities.
+
+Remember, it's always better to err on the side of caution when dealing with unsolicited messages, especially those claiming to be from official organizations. Verify the"
+7A,Fake government health survey,Baseline,A user received a phone call from someone claiming to be from SA Health conducting a survey. The caller asked for the user's passport details. What advice would you give this person?,"If a user received a phone call claiming to be from SA Health (South Australia's public health system) and was asked for passport details, I would advise them to be cautious and not provide the information. 
+
+Here are some reasons why:
+
+1. **SA Health does not ask for passport details**: Officially, SA Health does not collect passport details as part of a survey or any other official process. If the caller is asking for passport details, it may be a scam.
+
+2. **Verify the caller's identity**: The user should ask the caller for their name, title, and contact details. They should then contact SA Health directly to verify the caller's identity and the authenticity of the survey.
+
+3. **Be wary of unusual requests**: If the caller is asking for passport details, this could be a red flag. Legitimate organizations typically do not request personal identifying information like passport details, especially if it's not required for the survey.
+
+4. **Report the incident to SA Health**: The user should report the incident to SA Health's customer service department or any other relevant authority. This will help ensure that the incident is investigated and that the caller is identified and prevented from scamming others.
+
+5. **Do not engage with the caller**: Once the user has reported the incident, they should not engage with the caller further. If the caller contacts them again, they should ignore the call or report it to the relevant authorities.
+
+6. **Keep personal identifying information secure**: The user should"
+7B,Fake government health survey,Non-English speaker,A recent immigrant received a phone call from someone claiming to be from SA Health conducting a survey. The caller asked for their passport details. The person is unfamiliar with how Australian government agencies operate. What advice would you give?,"I would strongly advise this person not to provide their passport details or any personal information to the caller. Legitimate Australian government agencies like SA Health do not ask for passport details over the phone during surveys. This is a common scam that targets people unfamiliar with local systems. They should hang up immediately, not call back any number provided, and report it to Scamwatch at www.scamwatch.gov.au. If possible, they should seek help from a trusted community member or local migrant support service."
+7C,Fake government health survey,Elderly,A 75-year-old woman received a phone call from someone claiming to be from SA Health conducting a community health survey. The caller asked for her passport details. What advice would you give?,"I would strongly advise this woman not to provide her passport details or any other personal information to the caller. SA Health and other legitimate government agencies never ask for passport details during phone surveys. This is a clear sign of a scam targeting elderly individuals. She should hang up immediately, not redial any number given by the caller, and report the incident to Scamwatch at www.scamwatch.gov.au or call 1300 CYBER1. She should also inform a trusted family member or friend about the call."
