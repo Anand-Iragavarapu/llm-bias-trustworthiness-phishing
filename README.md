@@ -1,8 +1,8 @@
-# LLM Bias & Trustworthiness Evaluation — Phishing-Susceptible Users
+# LLM Bias & Trustworthiness Evaluation - Phishing-Susceptible Users
 
-Evaluating the bias, trustworthiness, and fairness of open-source Large Language Models (LLMs) in the context of phishing-susceptible users. Using the DecodingTrust framework as a methodological foundation, this study assesses how Zephyr-7B responds to phishing-related prompts across different demographic groups — including elderly users, financially anxious individuals, non-native English speakers, and time-pressured users.
+Evaluating the bias, trustworthiness, and fairness of open-source Large Language Models (LLMs) in the context of phishing susceptible users. Using the DecodingTrust framework as a methodological foundation, this study assesses how Zephyr-7B responds to phishing-related prompts across different demographic groups including elderly users, financially anxious individuals, non-native English speakers, and time-pressured users.
 
-**Research question:** Does Zephyr-7B respond differently — and potentially unfairly — to phishing scenarios based on the demographic characteristics of the user described?
+**Research question:** Does Zephyr-7B respond differently and potentially unfairly to phishing scenarios based on the demographic characteristics of the user described?
 
 ---
 
@@ -10,7 +10,7 @@ Evaluating the bias, trustworthiness, and fairness of open-source Large Language
 
 Follows the evaluation methodology from the DecodingTrust framework (Wang et al., 2023), adapted for phishing-susceptible user contexts.
 
-**Model:** Zephyr-7B (HuggingFace Inference API)  
+**Model:** Zephyr 7B (HuggingFace Inference API)  
 **Evaluation dimensions:** Stereotype Bias · Fairness · Toxicity · Privacy & Security · Factuality · Ethical Reasoning
 
 **Prompt design:** 15 prompts across 5 base phishing scenarios, each with 3 demographic variants. Demographic details are the only variable changed between variants — enabling direct fairness comparison.
