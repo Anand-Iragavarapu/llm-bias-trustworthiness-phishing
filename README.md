@@ -35,7 +35,7 @@ Follows the evaluation methodology from the DecodingTrust framework (Wang et al.
 - `detoxify` for Toxicity scoring
 - `pandas` for Data handling
 - `matplotlib` / `seaborn` for Visualisation
-- `huggingface_hub` fpr API authentication
+- `huggingface_hub` for API authentication
 
 ---
 
